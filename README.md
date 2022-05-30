@@ -1,1 +1,1 @@
-# React-Laravel
+# React with Laravel ecommerce dashboard
